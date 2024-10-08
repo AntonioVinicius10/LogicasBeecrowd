@@ -1,6 +1,6 @@
-let a = 12
-let b = 10
+let A = parseInt(10);
+let B = parseInt(12);
 
-let x = a + b 
+const x = A + B ;
 
-console.log(`X = ${x}`)
+console.log(`X = ${x}`);
